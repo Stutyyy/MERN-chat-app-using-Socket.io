@@ -19,19 +19,16 @@
 
 ## Features
 - Registration Page with validators to check valid email ID and strong password, encrypted by JWT_SECRET_KEY.
-![Screenshot (572)](./client/public/demo-ss/register-page-1.png)
+
 - Login Page, for authentication of user.
-![Screenshot (573)](./client/public/demo-ss/login-page-2.png)
+
 - Home Page, with ist of all available user on the server and a dropdown a sidebar of your previous chats.
-![Screenshot (574)](./client/public/demo-ss/Home-page-3.png)
+
 - Chat Page, wit live notifications, logout service and your previous chat with each individual user.
-![Screenshot (575)](./client/public/demo-ss/chat-page-4.png)
+
 - Emoji centre : For easy and convenient mood sharing
-![Screenshot (576)](./client/public/demo-ss/emoji%20centre.png)
 - Notifications : Realtime notification of each message along with the live icon for available users
-![Screenshot (577)](./client/public/demo-ss/notify-page-6.png)
-![Screenshot (578)](./client/public/demo-ss/notify-apge-7.png)
-![Screenshot (579)](./client/public/demo-ss/notify-page-8.png)
+
 
 This app is created in three parts:
  1. Client
